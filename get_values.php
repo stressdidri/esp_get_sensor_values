@@ -1,6 +1,6 @@
 <?php
 
-//////  Get sensor values prom basic webpage on the ESP8266
+//////  Get sensor values from a basic webpage on the ESP8266
 //////  This script gets 3 temperature values from 2 diffent ESP's 
 
 
